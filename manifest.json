@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Amazon Affiliate Link",
+    "version": "1.0",
+    "description": "Fügt Affiliate-Tag zu Amazon-URLs hinzu",
+    "permissions": ["webNavigation"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
