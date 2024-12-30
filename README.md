@@ -7,9 +7,10 @@ This is a simple extension for Microsoft Edge that adds an affiliate tag to Amaz
 1. Clone the repository
 2. Open Microsoft Edge
 3. Go to `edge://extensions/`
-4. Click "Load unpacked"
-5. Select the cloned repository
-6. Enable the extension
+4. Set Developer Mode on
+5. Click "Load unpacked"
+6. Select the cloned repository
+7. Enable the extension
 
 ## Usage
 
